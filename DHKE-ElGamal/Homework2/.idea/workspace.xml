@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Homework2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d091a078-27c9-414f-b408-5405dea8c129" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VOCvm2n5saGqxBxHtE2ImbWqWM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/Homework2_jar/Homework2.jar" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JAR Application.Homework2">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Homework2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework2" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Homework2_jar/Homework2.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\CEMAL\IdeaProjects\Homework2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Homework2:jar" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.Homework2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d091a078-27c9-414f-b408-5405dea8c129" name="Default Changelist" comment="" />
+      <created>1577114986676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577114986676</updated>
+      <workItem from="1577114988056" duration="5978000" />
+      <workItem from="1577194679332" duration="11531000" />
+      <workItem from="1577283183006" duration="10113000" />
+      <workItem from="1577353499838" duration="21443000" />
+      <workItem from="1577434083160" duration="10984000" />
+      <workItem from="1577458269006" duration="2977000" />
+      <workItem from="1577472309005" duration="1463000" />
+      <workItem from="1577550501341" duration="618000" />
+      <workItem from="1577613888989" duration="1416000" />
+      <workItem from="1577615423938" duration="6734000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="752" y="170" key="#BuildArtifactsBeforeRunChooser" timestamp="1577614532411">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="752" y="170" key="#BuildArtifactsBeforeRunChooser/0.0.1366.728@0.0.1366.728" timestamp="1577614532411" />
+    <state x="275" y="23" key="#Project_Structure" timestamp="1577115029732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1577115029732" />
+    <state x="579" y="20" width="787" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577615517420">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="579" y="20" width="787" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1577615517420" />
+    <state x="488" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1577619229533">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577619229533" />
+    <state x="715" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577614108722">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="715" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1577614108722" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577369658541">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1577369658541" />
+    <state x="765" y="120" key="FileChooserDialogImpl" timestamp="1577615514245">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="765" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577615514245" />
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1577621636760">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577621636760" />
+    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1577621636760">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577621636760" />
+    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1577621636760">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577621636760" />
+    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1577621636760">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577621636760" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1577383063762">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577383063762" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1577383063762">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577383063762" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1577383063762">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577383063762" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1577383063762">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577383063762" />
+    <state x="604" y="0" width="762" height="728" key="SettingsEditor" timestamp="1577614168721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="604" y="0" width="762" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577614168721" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1577384629822">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1577384629822" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577614376297">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577614376297" />
+  </component>
+</project>
